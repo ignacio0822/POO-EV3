@@ -1,13 +1,13 @@
 [
- {
- "run": "21607384-3",
- "nombre": "Ignacio",
- "apellido": "Arancibia",
- "direccion": "Las heras 1622",
- "fono": 941071164,
- "correo":"ignacio.arancibia09@inacapmail.cl",
- "montoCredito": 15287852490,
- "deuda":606060,
- "tipo": 3
- }
+  {
+   "run": "21607384-3",
+   "nombre": "Ignacio",
+   "apellido": "Arancibia",
+   "direccion": "Las heras 1622",
+   "fono": 941071164,
+   "correo":"ignacio.arancibia09@inacapmail.cl",
+   "montoCredito": 15287852490,
+   "deuda":606060,
+   "tipo": 3
+  }
 ]
